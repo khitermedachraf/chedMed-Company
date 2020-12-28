@@ -1,3 +1,3 @@
 # chedMed-Company
-an e-commerce website and charity company 
+an e-commerce website and charity company.
 new line.
